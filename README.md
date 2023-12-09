@@ -1,4 +1,4 @@
-# Folder Organizer Script
+# File Organizer Script
 
 ## Getting Started
 - Clone the repository by running the following command
